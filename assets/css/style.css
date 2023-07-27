@@ -1,0 +1,28 @@
+/* styling for default arrow in select drowdown list */
+@media only screen and (min-width: 320px) {
+  .select-wrapper {
+    position: relative;
+  }
+
+  .select-wrapper::after {
+    content: "\2304";
+    font-size: 1.5rem;
+    top: 6px;
+    left: 100px;
+    position: absolute;
+  }
+}
+
+@media only screen and (min-width: 992px) {
+  .select-wrapper {
+    position: relative;
+  }
+
+  .select-wrapper::after {
+    content: "\2304";
+    font-size: 1.5rem;
+    top: 6px;
+    right: 10px;
+    position: absolute;
+  }
+}
