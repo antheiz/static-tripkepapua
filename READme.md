@@ -14,7 +14,7 @@ keindahan wisata alam Tanah Papua serta membantu memperkenalkan Produk berupa ku
 - [x] Detail Place
 - [x] Product Collections (Kuliner, Karya seni and UMKM)
 - [x] Products 
-- [ ] Search Result
+- [x] Search Result
 - [ ] Category Product
 - [ ] All Events
 - [ ] Event Details
